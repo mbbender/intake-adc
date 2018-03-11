@@ -1,5 +1,5 @@
 {
-  "name": "intake-adc-converter",
+  "name": "intake-adc",
   "version": "1.0.0",
   "description": "Converts a file into Uint16 csv.",
   "main": "index.js",
