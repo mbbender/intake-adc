@@ -21,6 +21,6 @@
     "mkdirp": "^0.5.1"
   },
   "bin": {
-    "intake": "./index.js"
+    "intake-adc": "./index.js"
   }
 }
